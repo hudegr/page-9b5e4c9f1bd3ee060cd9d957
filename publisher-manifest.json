@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6d72de186a55cdd5b206f79f",
+  "owner": "hudegr",
+  "repo": "page-9b5e4c9f1bd3ee060cd9d957",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b5e4c9f1bd3ee060cd9d957",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6966b21fa3d79c1557c014d90a6ded896b8edde02a2a395d46bc468f12ff4c48",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供安全稳定的VPN加速服务，客户端一键连接高速节点，适合个人和团队使用。官网下载即刻开启加速之旅。",
+          "AI_DESCRIPTION": "44F网络提供安全稳定的VPN加速服务，客户端一键连接高速节点，适合个人和团队使用。官网下载即刻开启加速之旅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #6b5b95;\n            --light-gray: #f8f9fa;\n            --white: #ffffff;\n            --text: #333333;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: var(--text);\n            background-color: var(--light-gray);\n            margin: 0;\n            padding: 0;\n            overflow-x: hidden;\n        }\n        header {\n            background-color: var(--white);\n            box-shadow: 0 2px 8px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 1.5rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--primary);\n            text-decoration: none;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n            list-style: none;\n            margin: 0;\n            padding: 0;\n        }\n        .nav-links a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n            transition: color 0.3s;\n        }\n        .nav-links a:hover {\n            color: var(--primary);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1.5rem;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--primary);\n            text-align: center;\n            margin-bottom: 2.5rem;\n            line-height: 1.2;\n        }\n        section {\n            margin-bottom: 3rem;\n            background-color: var(--white);\n            border-radius: 12px;\n            padding: 2rem;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.06);\n        }\n        h2 {\n            color: var(--primary);\n            font-size: 1.75rem;\n            margin-bottom: 1.5rem;\n            border-bottom: 2px solid #e9ecef;\n            padding-bottom: 0.75rem;\n        }\n        .intro p, .usage ul, .operation ol {\n            font-size: 1.05rem;\n            margin: 0 0 1.25rem;\n        }\n        .usage ul, .operation ol {\n            padding-left: 1.25rem;\n        }\n        .usage li, .operation li {\n            margin-bottom: 0.75rem;\n        }\n        .cards-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: var(--white);\n            border: 2px solid #e9ecef;\n            border-radius: 12px;\n            padding: 1.75rem;\n            transition: all 0.3s ease;\n            position: relative;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n            box-shadow: 0 12px 25px rgba(107, 91, 149, 0.12);\n        }\n        .plan-card.featured {\n            border-color: var(--primary);\n            box-shadow: 0 12px 25px rgba(107, 91, 149, 0.18);\n        }\n        .plan-card h3 {\n            color: var(--primary);\n            margin: 0 0 1rem;\n            font-size: 1.35rem;\n        }\n        .plan-card .price {\n            font-size: 1.65rem;\n            font-weight: 700;\n            color: var(--primary);\n            margin: 0.5rem 0 1.25rem;\n        }\n        .plan-card .annual {\n            font-size: 0.95rem;\n            color: #666;\n            margin-bottom: 1.25rem;\n        }\n        .plan-card ul {\n            list-style: none;\n            padding: 0;\n            margin: 0 0 1.5rem;\n        }\n        .plan-card li {\n            padding: 0.5rem 0 0.5rem 1.75rem;\n            position: relative;\n            font-size: 1rem;\n        }\n        .plan-card li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--primary);\n            font-weight: bold;\n        }\n        .plan-card.featured .price {\n            color: var(--primary);\n        }\n        .plan-card.featured .annual {\n            color: #555;\n        }\n        .btn {\n            display: inline-block;\n            background-color: var(--primary);\n            color: white;\n            padding: 0.75rem 1.5rem;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            transition: background 0.3s;\n            margin-top: 0.75rem;\n        }\n        .btn:hover {\n            background-color: #5a4a7a;\n        }\n        details {\n            background: var(--white);\n            margin: 1.25rem 0;\n            border-radius: 10px;\n            overflow: hidden;\n            box-shadow: 0 3px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 1.25rem 1.75rem;\n            font-weight: 600;\n            cursor: pointer;\n            font-size: 1.1rem;\n            list-style: none;\n            background: linear-gradient(to right, var(--light-gray), transparent);\n            position: relative;\n        }\n        summary::before {\n            content: \"+\";\n            position: absolute;\n            left: 1.25rem;\n            font-size: 1.5rem;\n            color: var(--primary);\n            transition: transform 0.3s;\n        }\n        details[open] summary::before {\n            content: \"−\";\n            transform: rotate(45deg);\n        }\n        details[open] {\n            margin-bottom: 1.25rem;\n        }\n        footer {\n            background-color: #2d2d2d;\n            color: #ddd;\n            text-align: center;\n            padding: 2rem 1.5rem;\n            font-size: 0.95rem;\n        }\n        .faq-grid {\n            display: grid;\n            gap: 1.25rem;\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <a href=\"#\" class=\"logo\">44F网络</a>\n            <ul class=\"nav-links\">\n                <li><a href=\"#plans\">套餐选择</a></li>\n                <li><a href=\"#faq\">常见问题</a></li>\n                <li><a href=\"#download\">客户端下载</a></li>\n            </ul>\n        </nav>\n    </header>\n    <main>\n        <h1>44F网络</h1>\n        \n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>44F网络是一款专注网络加速与VPN服务的品牌，致力于为用户提供安全稳定、高速可靠的网络连接解决方案。通过先进客户端技术，我们确保每一次连接都流畅顺畅。无论日常浏览、流媒体追剧还是游戏竞技，44F网络都能为您带来最佳体验。</p>\n        </section>\n        \n        <section class=\"usage\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>解锁Netflix、Disney+、YouTube等国际流媒体平台</li>\n                <li>优化在线游戏的低延迟加速体验</li>\n                <li>企业远程办公与文件传输</li>\n                <li>隐私保护与安全上网</li>\n                <li>跨地区内容访问与节点优化</li>\n            </ul>\n        </section>\n        \n        <section class=\"operation\">\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问官网下载最新版本客户端</li>\n                <li>安装并使用邮箱完成账号注册</li>\n                <li>登录后选择适合的套餐与节点</li>\n                <li>一键连接即可享受高速加速</li>\n            </ol>\n        </section>\n        \n        <section id=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        \n        <section id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n        \n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq-grid\">\n                <details>\n                    <summary>44F网络是什么？</summary>\n                    <p>44F网络是一款专注于提供安全稳定VPN加速服务的品牌，通过专业客户端技术帮助用户实现高速、隐私保护的网络连接，适合个人与企业用户。</p>\n                </details>\n                <details>\n                    <summary>如何选择适合我的套餐？</summary>\n                    <p>基础版适合个人轻度使用，旗舰版支持3台设备同时在线并解锁全节点流媒体，团队版适合多人共享与企业定制需求，请根据实际设备数量与使用场景选择。</p>\n                </details>\n                <details>\n                    <summary>44F网络支持哪些设备？</summary>\n                    <p>我们支持Windows、macOS、iOS、Android等多平台客户端，均提供原生安装包，操作简单便捷。</p>\n                </details>\n                <details>\n                    <summary>节点覆盖范围如何？</summary>\n                    <p>44F网络提供覆盖全球主要地区的线路节点池，基础版与旗舰版均支持普通节点，旗舰版与团队版提供IPLC专线优化。</p>\n                </details>\n                <details>\n                    <summary>售后支持如何？</summary>\n                    <p>旗舰版与团队版均提供7x24优先工单支持，团队版额外配置专属客户经理，保障使用过程中的快速响应。</p>\n                </details>\n            </div>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 44F网络 版权所有 | 官网下载 | 隐私政策 | 合作伙伴</p>\n    </footer>\n\n",
+          "hash": "10c499a9e14e59f48f43405b3e934154eac36c1086cd3443811afeb2774793e3",
+          "seo": {
+            "title": "44F网络 - 安全VPN加速器 客户端下载",
+            "keywords": "44F网络, VPN加速器, 机场订阅, 客户端下载, 网络加速, VPN节点",
+            "description": "44F网络提供安全稳定的VPN加速服务，客户端一键连接高速节点，适合个人和团队使用。官网下载即刻开启加速之旅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wbfltmt.cn",
+    "host": "b.wbfltmt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "wbfltmt.cn",
+      "url": "https://wbfltmt.cn/",
+      "label": "X",
+      "apex": "wbfltmt.cn",
+      "kind": null,
+      "identity": "bbkjuewxsr/page-94568993d4eb3712ff9c43f4"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "794278811e7d388d494681c8dadc72932903df49e7346f2e0898874c103674b2",
+    "sitemap.xml": "96a503fca758a231547129b5ca50693490cbf0b1f0eaeaf9c4ad611f27799e2a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "361845c8950ff1d64c442819821ab235293cc3c2ea858e2f5fb99208af9d7ec2",
+    "robots.txt": "8bf54532099d653d20d0c9244894a8041ea63959cb303d2df9f2a04cf4762bb0",
+    "57519c2bb2afeddc07aca9c40ffee524.txt": "baf85098475bbdbcc49edb1b00279d758cb6f73e4d2bc34e892d3247451a6efc"
+  },
+  "revision": "1c81f4aa92bbe2d52c4a39c6c8d82148d633b5e65941628bb25cb20509077467"
+}
